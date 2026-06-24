@@ -65,3 +65,18 @@
 </p>
 
 ---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
+</p>
+
+<h3 align="center">Trophies</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" alt="GitHub Trophies" /></a>
+</p>
+
+---
