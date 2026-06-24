@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="center">Contributions Year-to-Date</h3>
+<h3 align="center">Overall Contributions Year-to-Date</h3>
 
 <p align="center">
   <picture>
@@ -66,16 +66,11 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Personal GitHub Stats</h3>
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 <h3 align="center">Trophies</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" alt="GitHub Trophies" /></a>
-</p>
 
 ---
