@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">📈 Contribution Stats</h3>
+<h3 align="center">Contribution Stats</h3>
 <p align="center"><sub>Contribution Stats for the last month</sub></p>
 
 <p align="center">
@@ -57,21 +57,9 @@
   <img src="https://streak-stats.demolab.com?user=sohamm29&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamm29&hide_border=true&radius=8" alt="Contribution Activity Graph" />
-</p>
-
 ---
 
-<h3 align="center">⌨️ Weekly Coding Breakdown</h3>
-<p align="center"><sub>Tracked with <a href="https://wakatime.com/">WakaTime</a> · updated daily via GitHub Actions.</sub></p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">Contributions Year-to-Date</h3>
 
 <p align="center">
   <picture>
