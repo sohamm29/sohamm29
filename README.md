@@ -40,9 +40,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Architecture & Design Patterns
-`Hexagonal Architecture` · `Registry` · `Factory` · `Fluent API`
-
 ---
 
 <h3 align="center">Contribution Stats</h3>
