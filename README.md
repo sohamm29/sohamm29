@@ -68,10 +68,9 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="180" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" height="180" />
-</p>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 <h3 align="center">Trophies</h3>
 
