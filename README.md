@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building production AI/ML systems — from agentic LLM pipelines to scalable, observable backends — with one foot in robotics research.
+  Currently Building production AI/ML systems — from agentic LLM pipelines served via scalable, observable backends at Glintt, while beginning my academic journey into Robotics through a Master's at EPFL!
 </p>
 
 ---
@@ -13,13 +13,11 @@
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 ### 🤖 AI / ML & Robotics
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-### 🗄️ Data & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-FF6D00?style=for-the-badge&logo=weaviate&logoColor=white)
@@ -43,7 +41,7 @@
 ---
 
 <h3 align="center">📈 Contribution Stats</h3>
-<p align="center"><sub>Aggregated across all organizations — private contributions are included as counts only, never repo names or code.</sub></p>
+<p align="center"><sub>Contribution Stats for the last month</sub></p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sohamm29&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
