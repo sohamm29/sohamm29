@@ -49,11 +49,6 @@
 <p align="center"><sub>Contribution Stats for the last month</sub></p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohamm29&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamm29&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sohamm29&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
