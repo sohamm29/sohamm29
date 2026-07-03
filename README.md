@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently Building production AI/ML systems — from agentic LLM pipelines served via scalable, observable backends at Glintt, while beginning my academic journey into Robotics through a Master's at EPFL!
+  BSc Computer Science Graduate from EPFL, with an Exchange Year at KTH currently Building production AI/ML systems — from agentic LLM pipelines served via scalable, observable backends at Glintt and returning to EPFL September 2026 for a MSc in Robotics!
 </p>
 
 <p align="center">
