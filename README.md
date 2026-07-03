@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Soham Malhotra 👋</h1>
+<h1 align="center">Hey 👋</h1>
 
 <p align="center">
-  <b>Fullstack AI/ML Engineer</b> building agentic LLM pipelines on scalable, observable backends at Glintt Global in Portugal, while pursuing an MSc in Robotics at EPFL in Switzerland — with a BSc in Computer Science from EPFL, including an exchange year at KTH in Sweden.
+  A <b>BSc Computer Science</b> Graduate, currently working as a <b>Fullstack AI/ML Engineer</b> building agentic LLM pipelines on scalable, observable backends, while pursuing an <b>MSc in Robotics</b>.
 </p>
 
 ---
