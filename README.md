@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋</h1>
 
 <p align="center">
-  A <b>BSc Computer Science</b> Graduate, currently working as a <b>Fullstack AI/ML Engineer</b> building agentic LLM pipelines on scalable, observable backends, while pursuing an <b>MSc in Robotics</b>.
+  A <b>BSc Computer Science</b> Graduate, currently working as a <b>Fullstack AI/ML Engineer</b> building AI / ML pipelines on scalable, observable backends, while pursuing an <b>MSc in Robotics</b>.
 </p>
 
 ---
