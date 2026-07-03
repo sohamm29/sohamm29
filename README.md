@@ -4,13 +4,26 @@
   <b>Fullstack AI/ML Engineer @ Glintt Global</b> &nbsp;•&nbsp; <b>MSc Robotics @ EPFL</b>
 </p>
 
+<h3 align="center">Background</h3>
+
 <p align="center">
-  BSc Computer Science Graduate from EPFL, with an Exchange Year at KTH currently Building production AI/ML systems — from agentic LLM pipelines served via scalable, observable backends at Glintt and returning to EPFL September 2026 for a MSc in Robotics!
+  🎓 BSc Computer Science — EPFL 🇨🇭 <sub>(Exchange Year @ KTH 🇸🇪)</sub> — 2022 – 2025
+</p>
+
+<h3 align="center">Currently</h3>
+
+<p align="center">
+  Building production AI/ML systems — from agentic LLM pipelines served via scalable, observable backends at Glintt, while pursuing a MSc in Robotics @ EPFL!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Glintt_·_Portugal-046A38?style=for-the-badge" alt="Glintt - Portugal" />
+  <img src="https://img.shields.io/badge/📍_EPFL_·_Switzerland-FF0000?style=for-the-badge" alt="EPFL - Switzerland" />
+  <img src="https://img.shields.io/badge/📍_KTH_·_Sweden-006AA7?style=for-the-badge" alt="KTH - Sweden" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sohamm29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sohamm29&style=for-the-badge&color=0078D4&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
@@ -19,6 +32,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly MIPS](https://img.shields.io/badge/Assembly-MIPS-654FF0?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge)
 
 ### Backend / Web
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -75,3 +94,7 @@
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohamm29&style=for-the-badge&color=0078D4&label=Profile+Views" alt="Profile Views" />
+</p>
