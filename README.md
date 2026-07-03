@@ -1,29 +1,7 @@
 <h1 align="center">Hi, I'm Soham Malhotra 👋</h1>
 
 <p align="center">
-  <b>Fullstack AI/ML Engineer @ Glintt Global</b> &nbsp;•&nbsp; <b>MSc Robotics @ EPFL</b>
-</p>
-
-<h3 align="center">Background</h3>
-
-<p align="center">
-  🎓 BSc Computer Science — EPFL 🇨🇭 <sub>(Exchange Year @ KTH 🇸🇪)</sub> — 2022 – 2025
-</p>
-
-<h3 align="center">Currently</h3>
-
-<p align="center">
-  Building production AI/ML systems — from agentic LLM pipelines served via scalable, observable backends at Glintt, while pursuing a MSc in Robotics @ EPFL!
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Glintt_·_Portugal-046A38?style=for-the-badge" alt="Glintt - Portugal" />
-  <img src="https://img.shields.io/badge/📍_EPFL_·_Switzerland-FF0000?style=for-the-badge" alt="EPFL - Switzerland" />
-  <img src="https://img.shields.io/badge/📍_KTH_·_Sweden-006AA7?style=for-the-badge" alt="KTH - Sweden" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sohamm29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <b>Fullstack AI/ML Engineer</b> building agentic LLM pipelines on scalable, observable backends at Glintt Global in Portugal, while pursuing an MSc in Robotics at EPFL in Switzerland — with a BSc in Computer Science from EPFL, including an exchange year at KTH in Sweden.
 </p>
 
 ---
